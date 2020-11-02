@@ -14,7 +14,7 @@
 
 **Thoughts:** I have never done user authentication before and this was neat! I was glad to have found resources that helped me. Unfortunately, it did not include information about logging out. I have found another resource, but it will take me a bit more time to figure that out. I feel good that I am learning something new already!
 
-**Link to work:** [Podcast Website Repo](https://github.com/bradweee/liked_it_website)
+**Link to work:** [User Authentication PR](https://github.com/bradweee/liked_it_website/pull/1)
 
 ### Day 3: October 31, 2020
 
@@ -22,4 +22,12 @@
 
 **Thoughts:**: I have more work to do on the login/logout features so that people dont' have to login to read the blog, but I'll get there. Doing some HTML and CSS styling will be nice because I feel more comfortable in that space. However, I am excited that I figure dout my signout feature so folks will not be trapped signed in. There will be more that I have to do there moving forward, which might be hard, but I think I'll get there. 
 
-**Link to work:** [Podcast Website Repo](https://github.com/bradweee/liked_it_website)
+**Link to work:** [Logout PR](https://github.com/bradweee/liked_it_website/pull/2), [Bootstrap PR](https://github.com/bradweee/liked_it_website/pull/3)
+
+### Day 4: November 1, 2020
+
+**Today's Progress**: Added roles and admin status functionality.
+
+**Thoughts:**: I am still figuring out how to create the best role setup for users. But now I have roles and admin status for all users. Now I need to figure out how to toggle admin on/off and make it so only admins can see the admin status and do that toggle. This is challenging, but I am finding lots of great resources online to help me create these methods. I'm hopeful that I'll be able to tie it all together eventually :) 
+
+**Link to work:** [Roles & Admin PR](https://github.com/bradweee/liked_it_website/pull/4)
