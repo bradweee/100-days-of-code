@@ -31,3 +31,11 @@
 **Thoughts:**: I am still figuring out how to create the best role setup for users. But now I have roles and admin status for all users. Now I need to figure out how to toggle admin on/off and make it so only admins can see the admin status and do that toggle. This is challenging, but I am finding lots of great resources online to help me create these methods. I'm hopeful that I'll be able to tie it all together eventually :) 
 
 **Link to work:** [Roles & Admin PR](https://github.com/bradweee/liked_it_website/pull/4)
+
+### Day 5: November 2, 2020
+
+**Today's Progress**: Completed 63% of Learn Basic Javascript on freecodecamp.org
+
+**Thoughts:**: I am not in a great mental state cause, you know, the world is falling apart. So today I took it a little easy and gave myself a break from the project while I did some learning of Javascript. I am not as familiar with Javascript so I wanted to do some back to basics training to get better. Already I think I have a decent grasp on it thanks to knowing Ruby and am picking it up pretty easily! I guess it helps that I already knew some of this already too. :) 
+
+**Link to work:** [Progress on FreeCodeCamp](https://www.freecodecamp.org/bradwee)
