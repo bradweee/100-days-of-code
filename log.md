@@ -39,3 +39,23 @@
 **Thoughts:**: I am not in a great mental state cause, you know, the world is falling apart. So today I took it a little easy and gave myself a break from the project while I did some learning of Javascript. I am not as familiar with Javascript so I wanted to do some back to basics training to get better. Already I think I have a decent grasp on it thanks to knowing Ruby and am picking it up pretty easily! I guess it helps that I already knew some of this already too. :) 
 
 **Link to work:** [Progress on FreeCodeCamp](https://www.freecodecamp.org/bradwee)
+
+**
+
+### Day 6: November 3, 2020
+
+**Today's Progress**: Continued work in Learn Basic Javascript on freecodecamp.org
+
+**Thoughts:**: Another rough day (actually election day) so I stuck to some calm lessons on Learn Basic Javascript, but didn't make as much progress. It's a bit much right now with everything going on so just keeping myself calm. :) 
+
+**Link to work:** [Progress on FreeCodeCamp](https://www.freecodecamp.org/bradwee)
+
+### Day 7: November 8, 2020
+
+**Today's Progress**: Started [Code Heir Pong Tutorial](https://codeheir.com/2019/02/04/how-to-code-pong-1972-1/)
+
+**Thoughts:**: After a couple days off due to election stress I am just getting back to coding. I felt pretty confident with what I had learned from the basic javascript that I wanted to see it in more action and wanted to do some real coding. So far it's a fun project and I am really enjoying it!
+
+**Link to work:** [Pong]()
+
+
