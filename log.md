@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 ### Day 1: May 17, 2021
 
-** Today's Progress**: Completed Basic HTML and Basic HTML5, Basic CSS, and Applied Visual Design courses on FreeCodeCamp
+**Today's Progress**: Completed Basic HTML and Basic HTML5, Basic CSS, and Applied Visual Design courses on FreeCodeCamp
 
 **Thoughts:** I'm restarting this again and since it's been a while, I need some refreshers. My plan is to finish all of the FreeCodeCamp projects by the end of the summer. It seems like a lot so we'll see how well that goes, but so far Day one has been a success. I'm eager to get to the projects portion!
 
