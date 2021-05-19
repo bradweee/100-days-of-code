@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 2: May 18, 2021
+
+**Today's Progress**: Completed Applied Accessibility, Responsive web design principles, CSS Flexbox, and CSS Grid coursework on FreeCodeCamp.
+
+**Thoughts:** I completed all of the lessons for the Responsive Web Deign course. Next up is the projects where I will be able to apply what I've learned so far into actual websites. That will be much more challenging I'm sure. 
+
+**Link to work:** [Progress on FreeCodeCamp](https://www.freecodecamp.org/bradwee)
+
 ### Day 1: May 17, 2021
 
 **Today's Progress**: Completed Basic HTML and Basic HTML5, Basic CSS, and Applied Visual Design courses on FreeCodeCamp
