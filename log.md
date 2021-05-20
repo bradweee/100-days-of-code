@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+### Day 3: May 19, 2021
+
+**Today's Progress**: Started first project for FreeCodeCamp, a tribute page to Steven Spielberg, which has passed 10/10 of the required tests!
+
+**Thoughts:** I'm almost done with my first project, which has been pretty straightforward. I will need to continue to edit it tomorrow to make it look the way I like as well as find a way to size it so it adapts to the screen size, but for a first day I feel good about it!
+
+**Link to work:** [Steven Spielberg Tribute Page](https://codepen.io/bradwee/pen/mdWOgmp)
+
+
 ### Day 2: May 18, 2021
 
 **Today's Progress**: Completed Applied Accessibility, Responsive web design principles, CSS Flexbox, and CSS Grid coursework on FreeCodeCamp.
