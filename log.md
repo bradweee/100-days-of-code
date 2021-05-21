@@ -6,8 +6,8 @@
 **Thoughts:** The first project was much easier than I expected, which feels great. For the second project I tried my best not to use additional resources, but to rely on the lessons to build the form. I will be doing the same tomorrow to make the form have a beautiful design. :) 
 
 **Link to work:** 
-*[Steven Spielberg Tribute Page](https://codepen.io/bradwee/pen/mdWOgmp)
-**[Steven Spielberg Tribute Page](https://codepen.io/bradwee/pen/gOmgKKJ)
++[Steven Spielberg Tribute Page](https://codepen.io/bradwee/pen/mdWOgmp)
++[Puppy Survey Form](https://codepen.io/bradwee/pen/gOmgKKJ)
 
 ### Day 3: May 19, 2021
 
