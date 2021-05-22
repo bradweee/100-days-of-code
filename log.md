@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+### Day 5: May 21, 2021
+
+**Today's Progress**: Completed second project, a survey form. Survey form passes all of the tests and has a custom design.
+
+**Thoughts:** I am still using a lot of guidance to make my CSS designs. I hope that with additional practice I'll be able to build designs on my own and make sure that it all looks beautiful. Right now it looks ok, but it has A LOT of room to grow. But I am ready to move onto the next project and continue the design wrok there. :) 
+
+**Link to work:** 
++ [Puppy Survey Form](https://codepen.io/bradwee/pen/gOmgKKJ)
+
 ### Day 4: May 20, 2021
 
 **Today's Progress**: Completed first project for FreeCodeCamp, a tribute page to Steven Spielberg. Started my second project, a survey form. Survey form currently passes all of the tests, but is lacking any kind of design elements.
