@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+### Day 6: May 22, 2021
+
+**Today's Progress**: Started third project, a landing page for a product. Making one for Instacart.
+
+**Thoughts:** I would like to make this project more robust than my last two so I'm spending some time figuring out how to design it properly. Mainly, I'd like to make it look like a legit website vs just a form. Today I worked on the hero image, but it's certainly taking some time! I will continue to work on this and hopefully make the nav bar look good tomorrow;
+
+**Link to work:** 
++ [Product Landing Page -- Instacart](https://codepen.io/bradwee/pen/oNZZPNN)
+
 ### Day 5: May 21, 2021
 
 **Today's Progress**: Completed second project, a survey form. Survey form passes all of the tests and has a custom design.
